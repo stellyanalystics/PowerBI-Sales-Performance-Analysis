@@ -36,7 +36,7 @@ The dashboard provides a comprehensive view of customer segments, product perfor
 ## Key Takeaways
 
 * Apple products are a major driver of overall profitability and business performance.
-* Declining customer activity may indicate reduced customer retention and repeat purchases.
+* Customer activity and performance reduced over time, which may indicate low customer retention or reduced repeat purchases.
 * Regional performance varies significantly, creating opportunities for targeted improvement strategies.
 * Product preferences can support inventory planning and marketing decisions.
 
